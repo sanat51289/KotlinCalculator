@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinCalculator</string>
+    <string name="app_header">Welcome to Kotlin Calculator</string>
+</resources>
